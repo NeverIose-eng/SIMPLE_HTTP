@@ -167,4 +167,4 @@ http client("http://example.com");
 client.set_proxy("127.0.0.1:8080"); // 格式：主机:端口
 auto response = client.get("/");
 ```
-> （注：文档部分内容可能由 AI 生成）
+> （注：文档内容由 @AI(chatgpt.com) 生成）
